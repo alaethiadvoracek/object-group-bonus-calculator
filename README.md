@@ -1,4 +1,29 @@
-# Group setup
+# Bonus Calculator App 
+A single Javascript file that calculates Bonuses for Employees at a company. 
+
+## Set up 
+- Install ```node.js``` if it is not on your machine 
+- Clone or download project on your machine. 
+- Once in project run ```npm install --save``` to get all nessecary dependencies 
+- Run ```npm start``` and navigate to localhost:5000 in your borwser 
+
+## Built With 
+- Javascript 
+- HTML 
+- CSS 
+- Angular Material 
+- Express 
+- Node.js 
+
+## Authors 
+Alaethia Dvoracek 
+Luckas Nord 
+Darian Nasrabadi 
+
+## This project 
+To do this project on your own follow the instructions below 
+
+## Group setup
 
 First, let's take a look at starting the project off with your group members in an effective manner:
 
